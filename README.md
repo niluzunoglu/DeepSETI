@@ -26,6 +26,11 @@ SETI (Search for Extraterrestrial Intelligence) araştırmaları, genellikle rad
 **Evrenin Derinliklerinden Gelen Sinyaller**
 ![SETI Research](https://upload.wikimedia.org/wikipedia/commons/d/db/SETI_Institute.jpg)
 
+**Carl Sagan**
+![Carl Sagan](https://dusunbil.com/wp-content/uploads/2018/08/cosmos-carl-sagan.jpg)
+
+**Dr.Ellie Arroway**
+![Dr. Ellie Arroway](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ymkN2Hz6-sNYzCPDS0vIBDHMdOqbEfjof6Z8OgVSEsHvH_yqu7zueuGNwLB5YgoHe0tOEHp3P3xIKLjCS-GBrFwOF5GsifUPVXYYZyb8sCt_wDBmY9XDkEE8TGMtuCGI3ReQKFlHG57L/s1600/contact_4.jpeg)
 ---
 
 ## 📜 Lisans
