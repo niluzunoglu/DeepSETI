@@ -1,5 +1,7 @@
 # 🌌 DeepSETI
 
+![DeepSETI Görseli](deepSETI1.png)
+
 DeepSETI, dünya dışı yaşam araştırmalarına derin öğrenme tekniklerini entegre eden bir projedir. 
 Bu çalışma, radyo sinyallerini analiz ederek anomalileri tespit etmeyi ve potansiyel olarak dünya dışı kaynaklardan gelebilecek sinyalleri sınıflandırmayı amaçlamaktadır. 
 
